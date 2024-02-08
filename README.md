@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @yashwanthdv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full stack java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m learning web development (HTML, CSS, JavaScript)
+- 🌱 I’m currently looking for internship opportunities in software development and related fields.
+- 💞️ I’m looking to collaborate on exciting projects.
+- 📫 Reach me out email: yashwanthdvreddy2002@gmail.com, Linkdin: http://www.linkedin.com/in/yashwanth-d-v
 
-<!---
-yashwanthdv/yashwanthdv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
